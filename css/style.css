@@ -90,6 +90,11 @@ ul li a {
     transition: background 400ms;
 }
 
+ul li p {
+    text-align: start;
+    width: 60px;
+}
+
 /* pseudo-class */
 ul li a:hover {
 background: var(--primary-color-dark);
@@ -111,8 +116,8 @@ footer a {
 }
 
 li img {
-    width: 30px;
-    height: 30px;
+    width: 32px;
+    height: 32px;
     margin: 10px;
 }
 
