@@ -109,3 +109,10 @@ footer:hover {
 footer a {
     color: var(--text-color);
 }
+
+li img {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+
